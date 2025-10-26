@@ -1,5 +1,9 @@
-Hello !
+<h1 align="center"> Hi there! </h1>
 
-My name is Vitaliy, I am from Irkutsk. 
+<p align="center"> My name is Vitalya, I am studying at Irkutsk State University.</p>
 
-Telegram: @vit_a2
+<p align="center"> C++ Python HTML </p>
+
+
+<p align="center"> Telegram: @vit_a2 </p>
+
